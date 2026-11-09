@@ -4798,13 +4798,13 @@ return {
         hash = `poldorado`,
     },
     polfaction2 = {
-        name = 'Outreach Faction',
+        name = 'Police Faction',
         brand = 'Willard',
-        model = 'poldorado',
+        model = 'polfaction2',
         price = 81768,
         category = 'emergency',
         type = 'automobile',
-        hash = `poldorado`,
+        hash = `polfaction2`,
     },
     polgauntlet = {
         name = 'Gauntlet Interceptor',
@@ -4875,7 +4875,7 @@ return {
         model = 'policeb',
         price = 23078,
         category = 'emergency',
-        type = 'automobile',
+        type = 'bike',
         hash = `policeb`,
     },
     policeold1 = {
@@ -8037,7 +8037,7 @@ return {
         model = 'maverick2',
         price = 6031333,
         category = 'helicopters',
-        type = 'automobile',
+        type = 'heli',
         hash = `maverick2`,
     },
     minimus = {
@@ -8055,7 +8055,7 @@ return {
         model = 'policeb2',
         price = 32000,
         category = 'emergency',
-        type = 'automobile',
+        type = 'bike',
         hash = `policeb2`,
     },
     rapidgt4 = {
